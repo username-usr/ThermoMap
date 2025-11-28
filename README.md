@@ -104,8 +104,8 @@ python src/feet_io.py
 pyhton src/dummy_patient.py
 ```
 #### Output:
--- `dummy_patients.json`
--- 10 simulated patients with persona + modality assignments
+- `dummy_patients.json`
+- 10 simulated patients with persona + modality assignments
 
 ## Generate PDFs report
 ```bash
@@ -115,10 +115,11 @@ This create the reports at `report/` directory.
 
 **Each PDF includes:**
 
--- Patient details
--- Breast/face/feet analysis
--- ROIs, heatmaps, asymmetry maps
--- Summary tables
--- Final interpretation page
+- Patient details
+- Breast/face/feet analysis
+- ROIs, heatmaps, asymmetry maps
+- Summary tables
+- Final interpretation page
+
 
 
