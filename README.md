@@ -121,5 +121,28 @@ This create the reports at `report/` directory.
 - Summary tables
 - Final interpretation page
 
+## License
 
+This project is licensed under the MIT License.
 
+## Author
+- Ashwin, 3rd year UG @ Amrita University, Banglore.
+- GitHub : https://github.com/username-usr
+- Gmail  : ashwinvenkat2408@gmail.com
+
+## Purpose of Project
+
+**ThermoMap demonstrates engineering skills in:**
+
+- Medical imaging pipelines
+- Thermal image processing
+- Deep learning segmentation
+- Feature engineering
+- Report generation
+- Modular Python application development
+
+## Contributions
+
+Contributions, suggestions, and improvements are always welcome.
+Feel free to open an issue or pull request.
+Sign Off!!!
