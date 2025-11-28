@@ -1,0 +1,172 @@
+[
+  {
+    "patient_id": "CASE_01",
+    "persona": {
+      "patient_id": "CASE_01",
+      "name": "Rahul Singh",
+      "age": 70,
+      "gender": "M",
+      "risk_level": "high",
+      "notes": "At-risk patient with prior abnormal thermal findings."
+    },
+    "modalities": {
+      "breast": "IIR0052_anterior",
+      "face": "img20240303_012617",
+      "feet": "R0_0080"
+    },
+    "diseased": true
+  },
+  {
+    "patient_id": "CASE_02",
+    "persona": {
+      "patient_id": "CASE_02",
+      "name": "Rohit Iyer",
+      "age": 30,
+      "gender": "M",
+      "risk_level": "high",
+      "notes": "History of peripheral neuropathy, undergoing regular foot monitoring."
+    },
+    "modalities": {
+      "breast": "IIR0046_oblleft",
+      "face": "img20231126_205556",
+      "feet": "R0_0016"
+    },
+    "diseased": true
+  },
+  {
+    "patient_id": "CASE_03",
+    "persona": {
+      "patient_id": "CASE_03",
+      "name": "Anita Nair",
+      "age": 34,
+      "gender": "F",
+      "risk_level": "high",
+      "notes": "Known diabetic, referred for thermal foot and breast screening."
+    },
+    "modalities": {
+      "breast": "IIR0007_oblright",
+      "face": "img20240303_015247",
+      "feet": "R2_0059"
+    },
+    "diseased": true
+  },
+  {
+    "patient_id": "CASE_04",
+    "persona": {
+      "patient_id": "CASE_04",
+      "name": "Vikram Reddy",
+      "age": 60,
+      "gender": "M",
+      "risk_level": "high",
+      "notes": "History of peripheral neuropathy, undergoing regular foot monitoring."
+    },
+    "modalities": {
+      "breast": "IIR0011_anterior",
+      "face": "img20231203_212219",
+      "feet": "R2_0016"
+    },
+    "diseased": true
+  },
+  {
+    "patient_id": "CASE_05",
+    "persona": {
+      "patient_id": "CASE_05",
+      "name": "Karan Sharma",
+      "age": 53,
+      "gender": "M",
+      "risk_level": "high",
+      "notes": "At-risk patient with prior abnormal thermal findings."
+    },
+    "modalities": {
+      "breast": "IIR0116_anterior",
+      "face": "img20231203_212110",
+      "feet": "R2_0028"
+    },
+    "diseased": true
+  },
+  {
+    "patient_id": "CASE_06",
+    "persona": {
+      "patient_id": "CASE_06",
+      "name": "Vikram Patel",
+      "age": 58,
+      "gender": "M",
+      "risk_level": "normal",
+      "notes": "Routine screening using ThermoMap."
+    },
+    "modalities": {
+      "breast": null,
+      "face": "img20231205_210547",
+      "feet": "H_0053"
+    },
+    "diseased": false
+  },
+  {
+    "patient_id": "CASE_07",
+    "persona": {
+      "patient_id": "CASE_07",
+      "name": "Kavya Patel",
+      "age": 35,
+      "gender": "F",
+      "risk_level": "high",
+      "notes": "History of peripheral neuropathy, undergoing regular foot monitoring."
+    },
+    "modalities": {
+      "breast": null,
+      "face": "img20231126_210419",
+      "feet": "R1_0028"
+    },
+    "diseased": true
+  },
+  {
+    "patient_id": "CASE_08",
+    "persona": {
+      "patient_id": "CASE_08",
+      "name": "Vikram Sharma",
+      "age": 49,
+      "gender": "M",
+      "risk_level": "high",
+      "notes": "At-risk patient with prior abnormal thermal findings."
+    },
+    "modalities": {
+      "breast": null,
+      "face": "img20231203_195444",
+      "feet": "R0_0090"
+    },
+    "diseased": true
+  },
+  {
+    "patient_id": "CASE_09",
+    "persona": {
+      "patient_id": "CASE_09",
+      "name": "Sanjay Nair",
+      "age": 50,
+      "gender": "M",
+      "risk_level": "normal",
+      "notes": "General wellness check with multi-region thermography."
+    },
+    "modalities": {
+      "breast": null,
+      "face": "img20240303_015619",
+      "feet": "H_0106"
+    },
+    "diseased": false
+  },
+  {
+    "patient_id": "CASE_10",
+    "persona": {
+      "patient_id": "CASE_10",
+      "name": "Karan Singh",
+      "age": 72,
+      "gender": "M",
+      "risk_level": "normal",
+      "notes": "General wellness check with multi-region thermography."
+    },
+    "modalities": {
+      "breast": null,
+      "face": "img20231203_212332",
+      "feet": "H_0054"
+    },
+    "diseased": false
+  }
+]
